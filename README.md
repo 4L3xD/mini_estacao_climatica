@@ -1,0 +1,1 @@
+# mini_estacao_climatica
